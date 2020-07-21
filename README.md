@@ -33,8 +33,7 @@
 
 |  이름  | 자료                                                         |              내용              |
 | :----: | ------------------------------------------------------------ | :--------------------------: |
-| 머신러닝_12th | [PCA 수학적 개념, PCA 특징 및 과정, PCA 한계](머신러닝_12th.ipynb) |         PCA 이론          |
-| 머신러닝_13th | [PLS 수학적 개념, PLS 특징 및 과정](머신러닝_13th.ipynb) |         PLS 이론          |
+| 머신러닝_16th | [Kullback-Leibler divergence, Jensen-Shannon divergence 개념 및 간단한 코드](머신러닝_16th.ipynb) | Kullback-Leibler divergence, Jensen-Shannon divergence|
 
 **Clustering(Unsupervised Learning)**: 
 
