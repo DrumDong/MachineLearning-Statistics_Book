@@ -16,6 +16,7 @@
 | 머신러닝_03th | [선형회귀모델, 파라미터 추론(구간추정, 검정), 결정계수, 분산분석](머신러닝_03th.ipynb) |         회귀분석 기초          |
 | 머신러닝_11th | [SVM 이론,Hard SVM, Soft SVM, Kernel SVM](머신러닝_11th.ipynb) |         SVM 이론          |
 | 머신러닝_22th | [Quantile Regression(Predict Interval)](머신러닝_22th.ipynb) |  예측구간 설명 및 예시                 |
+| 머신러닝_23th | [QR ](머신러닝_23th.ipynb) |  QR Upgrade                 |
 
 **model 평가**: 
 
