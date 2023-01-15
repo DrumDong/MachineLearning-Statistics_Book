@@ -1,0 +1,1 @@
+Dinamic Pricing Study
